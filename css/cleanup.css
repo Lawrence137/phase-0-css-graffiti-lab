@@ -2,15 +2,29 @@
 #wall .tag-1 {
     display: none;
 }
-#wall .tag-2 {
-    display: none;
+{
+    background: red;
+    padding: auto;
 }
-#wall .tag-3 {
-    display: none;
+body{
+    display: inline;
+
 }
-#wall .tag-4 {
-    display: none;
+#wall{
+    position: relative;
 }
-#wall .tag-5 {
-    display: none;
+#tag-2{
+    display: flex;
+    position: absolute;
+    top: 50px;
+}
+#tag-2{
+    display: flex;
+    position: absolute;
+    top: 50%;
+}
+#taag-4{
+    display: flex;
+    position: absolute;
+    right: 50px;
 }
